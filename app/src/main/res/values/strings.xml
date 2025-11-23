@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MAD_23012011036_Practical6</string>
+
+    <!-- Required for AlarmActivity -->
+    <string name="alarm_title">Wake Up Alarm</string>
+    <string name="alarm_desc">This alarm helps you wake up on time.</string>
+    <string name="alarm_more_desc">Tap below to create or cancel the alarm.</string>
+    <string name="createAlarm">Create Alarm</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="clocks">Clock animation</string>
+</resources>
